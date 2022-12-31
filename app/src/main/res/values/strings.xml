@@ -1,0 +1,198 @@
+<resources>
+    <string name="app_name">Foodie Mobile App</string>
+    <string name="Payment_app_name">Payment</string>
+    <string name="Coins_app_name">Coins</string>
+    <string name="AddCoins_app_name">Add Coins</string>
+    <string name="tv_selectPayment1">You Have</string>
+    <string name="tv_selectPayment2" />
+    <string name="tv_selectPayment3">Coins</string>
+    <string name="btn_selectPayment1">Pay By Coins</string>
+    <string name="btn_selectPayment2">Pay By Card</string>
+    <string name="tv_availableCoins1">Available Coins : </string>
+    <string name="tv_availableCoins2" />
+    <string name="tv_paymentTotalPrice1">Total Price</string>
+    <string name="tv_paymentTotalPrice2" />
+    <string name="btn_addMoreCoins">Add more Coins</string>
+    <string name="btn_PaybyCoins">Pay Now</string>
+    <string name="tv_AddCoinsHeader">Enter Payment Details</string>
+    <string name="tv_addCoinsfname">Full Name</string>
+    <string name="et_addCoinsfname">Enter Name</string>
+    <string name="tv_addCoinsCardNo">Card Number</string>
+    <string name="et_addCoinsCardNo">Enter Card Number</string>
+    <string name="tv_addCoinsCardExp">Expire Month/Year</string>
+    <string name="et_addCoinsCardExpMonth">Month</string>
+    <string name="et_addCoinsCardExpYear">Year</string>
+    <string name="tv_addCoinsCVV">CVV</string>
+    <string name="et_addCoinsCVV">Enter CVV </string>
+    <string name="tv_addCoinsNumber">Coins</string>
+    <string name="et_addCoinsNumber">Enter Amount</string>
+    <string name="btn_addCoins">Add Coins</string>
+    <string name="btn_PaymentConfirmEdit">Edit Payment Details</string>
+    <string name="btn_PaymentConfirm">Confirm</string>
+    <string name="tv_payByCardTotAmount">Total Amount :</string>
+    <string name="tv_payByCardAmount" />
+    <string name="tv_payByCardPymntD">Enter Payment Details</string>
+    <string name="tv_payByCardFullName">Full Name </string>
+    <string name="et_payByCardFullName">Enter Full Name </string>
+    <string name="tv_payByCardCardNo">Card Number</string>
+    <string name="et_payByCardCardNo">Enter Card Number</string>
+    <string name="et_payByCardExpMonth">Month</string>
+    <string name="et_payByCardExpYear">Year</string>
+    <string name="tv_payByCardCVV">CVV</string>
+    <string name="et_payByCardCVV">Enter CVV</string>
+    <string name="btn_payByCardConfirm">Proceed Payment</string>
+    <string name="tv_payByCardExp">Expire(Month/Year)</string>
+    <string name="tv_editPayment">Edit Payment Details</string>
+    <string name="btn_editpayment">Edit Payment Details</string>
+    <string name="btn_removePayment">Remove Payment Details</string>
+    <string name="btn_PaymentSelectAddCoins">Add Coins</string>
+    <string name="tv_paymentSuccess">Payment Successful</string>
+    <string name="tv_thankYou">Thank You for being with Us!</string>
+    <string name="btn_tyGotoHome">Go to Home Page</string>
+    <string name="btn_goTohome">Go to Home Page</string>
+    <string name="btn_adminLogin">Admin Login</string>
+    <string name="btn_userLogin">User Login</string>
+    <string name="tv_userLogin">User Login</string>
+    <string name="tv_userLoginUsername">Username</string>
+    <string name="tv_userloginPassword">Password</string>
+    <string name="tv_userLoginText">Don\'t have account ?</string>
+    <string name="tv_NavtoRegister"><u>Register Here</u></string>
+    <string name="tv_UserRegistration">User Registration</string>
+    <string name="tv_regUsername">Enter Username</string>
+    <string name="tv_regPassword">Password</string>
+    <string name="tv_regRetypePwd">Retype Password</string>
+    <string name="et_userLoginUsername">Enter username here</string>
+    <string name="et_userLoginPassword">Enter Password here</string>
+    <string name="btn_regRegister">Register Account</string>
+    <string name="tv_adminLoginText">Admin Login</string>
+    <string name="txt_adminLoginusername">Username</string>
+    <string name="txt_adminLoginPassword">Password</string>
+    <string name="ET_adminLoginusername">Enter username here</string>
+    <string name="et_adminLoginPassword">Enter password here</string>
+    <string name="btn_Loginadmin">Login</string>
+
+
+
+
+
+
+
+    <string name="greentea">Green Tea 2. Blended with mint,
+    lemongrass and lemon verbena, then sweetened just right and given a good shake with ice, so-refreshing!</string>
+
+    <string name="chiken">Green </string>
+
+
+    <string name="latte">A neat twist that can be done with any of the new Teavana teas is called a tea latte.
+    Basically, a tea latte is equal parts hot tea and steamed milk.  </string>
+
+
+    <string name="orangesmoothie">Starbucks Orange Mango Smoothie. A nourishing blend of natural orange mango juice,
+    a whole banana, milk, whey protein, and fiber powder and ice.</string>
+
+
+    <string name="orangevanilla">Vanilla Bean Crème Frappuccino® Blended Beverage. This rich and creamy blend of vanilla bean, milk and ice topped with
+    whipped cream takes va-va-vanilla flavor to another level.</string>
+
+
+    <string name="cappcuni">By Starbucks definition, a cappuccino is mostly milk foam, which weighs a lot less than milk. ... More specifically, a
+    cappuccino is made up of shots of espresso, half steamed milk (2% by default,) </string>
+
+
+    <string name="thaitea">Thai Tea is is made from strongly-brewed black tea, often spiced with ingredients such as star anise,
+    crushed tamarind, cardamom</string>
+    <string name="tea">Right next to water, tea is hailed as the most consumed drink in the world. Every single drop of tea
+    comes from the same type of plant</string>
+    <string name="bubbletea">Bubble Tea is the name given to the wide variety of refreshing flavoured
+    fruit teas and milk teas served ice cold or piping hot with chewy
+    tapioca balls that you suck up through a big fat straw! .</string>
+    <string name="match">Smooth and creamy matcha sweetened just right and served with steamed milk. This
+    favorite will transport your senses to pure green delight. </string>
+    <string name="coffeePrice">LKR 100 pre Burger</string>
+    <string name="addtocart">Add to cart</string>
+    <string name="btn_checkout">CheckOut</string>
+    <string name="btn_checkout_1">CheckOut</string>
+    <string name="ed_name">Name</string>
+    <string name="et_city">City</string>
+    <string name="et_address">Address</string>
+    <string name="et_post">Postal Code</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_update">Update Address</string>
+    <string name="btn_confirm">Confirm Address</string>
+    <string name="btn_adddelevry">Add delivery Details</string>
+    <string name="btn_takeaway">takeaway</string>
+    <string name="btn_addPayment">Add payment details</string>
+    <string name="txtDeleveyCost">LKR 100.00</string>
+    <string name="txt_finalCost" />
+    <string name="txt_orderNames" />
+    <string name="txt_checkoutPrices" />
+    <string name="txt_checkoutqty" />
+    <string name="txt_address">Address</string>
+    <string name="txt_test">LKR 100 per Burger</string>
+    <string name="clearthedatabase">Clear Cart</string>
+
+    <string name="ToolBar_Text">Home</string>
+    <string name="tx_category">Categories</string>
+    <string name="btn_biriyani">Biriyani</string>
+    <string name="btn_burger">Burger</string>
+    <string name="btn_pizza">Pizza</string>
+    <string name="btn_submarine">Submarine</string>
+    <string name="btn_noodless">Noodless</string>
+    <string name="btn_drinks">Drinks</string>
+    <string name="btn_cheeseBurger">Cheese Burger</string>
+    <string name="tv_cheeseBurger">A cheeseburger is a hamburger topped with cheese. Traditionally, the slice of cheese is placed on top of the meat patty. The cheese is usually added to the cooking hamburger patty shortly before serving, which allows the cheese to melt. Cheeseburgers can include variations in structure, ingredients and composition.</string>
+    <string name="tv_cburger_topic">Cheese Burger</string>
+    <string name="btn_cart">Add to Cart</string>
+    <string name="btn_buy">Buy It Now</string>
+    <string name="btn_addItem">Add New  Item</string>
+    <string name="btn_updateItem">Update Item Details</string>
+    <string name="btn_deleteItem">Delete Item</string>
+    <string name="tv_admin_cheeseBurger">Cheese Burger</string>
+    <string name="et_update_cheese_burger" />
+    <string name="et_cheese_burger_price_update">Update</string>
+    <string name="btn_cheese_burger_update">Update</string>
+    <string name="tv_add_item_description">Description</string>
+    <string name="tv_add_item_price">Price</string>
+    <string name="et_input_price" />
+    <string name="btn_add_new_item">Add Item</string>
+    <string name="title_activity_menu">menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="tv_coin">Coins</string>
+    <string name="tv_coin_amount" />
+    <string name="tv_category">Category</string>
+    <string name="tv_cheeseburger_price">Rs.650</string>
+    <string name="tv_update_cheese_burder_description">Description</string>
+    <string name="tv_cheese_burder_price_update">Price</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_aboutus">About Us</string>
+    <string name="nav_logout">Log Out</string>
+    <string name="tv_username">User Name</string>
+    <string name="tv_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_create_account">Create Account</string>
+    <string name="et_input_username" />
+    <string name="et_password_input" />
+    <string name="tv_selectCategory">Category</string>
+    <string name="btn_buynow">Buy Now</string>
+    <string name="tv_rs">Rs</string>
+    <string name="tv_categoryName">Title</string>
+
+    <string-array name="foodCategory">
+        <item>Biriyani</item>
+        <item>Burger</item>
+        <item>Pizza</item>
+        <item>Submarine</item>
+        <item>Noodless</item>
+        <item>Drink</item>
+    </string-array>
+
+</resources>
